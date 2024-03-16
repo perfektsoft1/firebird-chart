@@ -3,12 +3,12 @@ entries:
   firebird-app:
   - apiVersion: v2
     appVersion: 3.0.11
-    created: "2024-03-16T08:19:07.204671861Z"
+    created: "2024-03-16T08:22:56.192338934Z"
     description: A Helm chart for Kubernetes
-    digest: 2c2cbafef858f3daaf5f06f6b3f0f1a3e71812b73ffb63e8bfe6efd7500606d9
+    digest: 645789aa94f7e2b64f6c2924f0a3c2d7e4670939e8f1deb3792f87147ad16029
     name: firebird-app
     type: application
     urls:
     - firebird-app-0.1.0.tgz
     version: 0.1.0
-generated: "2024-03-16T08:19:07.203159887Z"
+generated: "2024-03-16T08:22:56.191438575Z"
