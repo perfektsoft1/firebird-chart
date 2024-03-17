@@ -3,7 +3,17 @@ entries:
   firebird-app:
   - apiVersion: v2
     appVersion: 3.0.11
-    created: "2024-03-17T11:13:03.728382296Z"
+    created: "2024-03-17T11:18:48.899091144Z"
+    description: A Helm chart for Kubernetes
+    digest: 52d068849b5b39fc5d061d7bdf820e93de5f015f63941959a3e4833420d5460b
+    name: firebird-app
+    type: application
+    urls:
+    - https://perfektsoft1.github.io/firebird-chart/firebird-app-0.1.5.tgz
+    version: 0.1.5
+  - apiVersion: v2
+    appVersion: 3.0.11
+    created: "2024-03-17T11:18:48.898250698Z"
     description: A Helm chart for Kubernetes
     digest: 1cfb462c1aa26ccd48482c8bffede7b5c261892abadaa41b067b5fc3a25b1d3e
     name: firebird-app
@@ -11,14 +21,4 @@ entries:
     urls:
     - https://perfektsoft1.github.io/firebird-chart/firebird-app-0.1.4.tgz
     version: 0.1.4
-  - apiVersion: v2
-    appVersion: 3.0.11
-    created: "2024-03-17T11:13:03.727565145Z"
-    description: A Helm chart for Kubernetes
-    digest: 70353abea46c6e0f645673626a565606dfdbd41def447d1cc1424967af341bea
-    name: firebird-app
-    type: application
-    urls:
-    - https://perfektsoft1.github.io/firebird-chart/firebird-app-0.1.3.tgz
-    version: 0.1.3
-generated: "2024-03-17T11:13:03.726535026Z"
+generated: "2024-03-17T11:18:48.897334133Z"
